@@ -8,17 +8,17 @@
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/mGlobal"
-        android:icon="@drawable/baseline_newspaper"
+        android:icon="@drawable/baseline_public"
         android:title="Global"
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/mForYou"
-        android:icon="@drawable/baseline_newspaper"
+        android:icon="@drawable/baseline_star"
         android:title="For you"
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/mTrending"
-        android:icon="@drawable/baseline_newspaper"
+        android:icon="@drawable/baseline_trending_up"
         android:title="Trending"
         app:showAsAction="ifRoom" />
 
